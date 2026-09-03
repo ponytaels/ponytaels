@@ -1,6 +1,5 @@
 <small><div align="center">♡
-
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Emilys+Candy&duration=2100&pause=1000&color=F7C3E1&width=435&lines=Oh%2Ci+love+you%2C+dont+worry+dear+;We+can+be+together+in+my+dreams)](https://git.io/typing-svg)
 <p align="center">  <img src="https://i.postimg.cc/ZRQkc9jp/Untitled285-20260903152141.png" />
 </p>
 

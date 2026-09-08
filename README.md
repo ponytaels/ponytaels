@@ -6,4 +6,4 @@
 
 <small>[ata  ! ](https://kitties.atabook.org/)
 
-<p align="center">  <img src="https://i.postimg.cc/VLXdCx7K/Tumblr-l-1785794410088441.gif" />
+<p align="center">  <img src="https://i.postimg.cc/VLXdCx7K/Tumblr-l-1785794410088441.gif"width="75"> 

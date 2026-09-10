@@ -4,8 +4,11 @@
 <p align="center">  <img src="https://i.postimg.cc/MT0FRKQc/Untitled292-20260908231832.png"width="900"> 
 </p>
 
-
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31chgegbybzwxo4s6ewggujravme&cover_image=false&theme=novatorem&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=800000&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+<p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31h2oxcakzrsylfusd5gsgblhgxe&cover_image=false&theme=novatorem&show_offline=true&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=960000&bar_color_cover=false">
+  </a>
+</p>
 
 <p align="center">  <img src="https://i.postimg.cc/hvS30WL7/Tumblr-l-1786168849894848.gif"width="200">
 

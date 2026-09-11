@@ -4,9 +4,7 @@
 <p align="center">  <img src="https://i.postimg.cc/MT0FRKQc/Untitled292-20260908231832.png"width="900"> 
 </p>
 
-<p align="center">
-  <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31h2oxcakzrsylfusd5gsgblhgxe&cover_image=false&theme=novatorem&show_offline=true&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=960000&bar_color_cover=false">
+
   </a>
 </p>
 
